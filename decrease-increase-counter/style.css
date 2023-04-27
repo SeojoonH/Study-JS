@@ -1,0 +1,46 @@
+* { 
+  padding: 0;
+  margin: 0 auto;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  width: 200px;
+  border: 1px solid black;
+  padding: 40px;
+}
+
+.twoBtns {
+  width: 30px;
+  height: 30px;
+  background-color: gray;
+  color: #ffffff;
+  font-weight: 900;
+  font-size: 20px;
+  text-align: center;
+}
+
+#myNumber {
+  font-size: 100px;
+}
+
+.color-btn {
+  width: 30px;
+  height: 30px;
+  border: none;
+  cursor: pointer;
+  margin-top: 15px;
+}
+
+.red { background-color: #FF0000; }
+.orange { background-color: #FFA500; }
+.yellow { background-color: #FFFF00; }
+.green { background-color: #008000; }
+.blue { background-color: #0000FF; }
+.indigo { background-color: #4B0082; }
+.purple { background-color: #800080; }
+.black { background-color: #000000; }
+
