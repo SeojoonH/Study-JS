@@ -1,0 +1,21 @@
+
+
+[data-status] {
+  padding: 5px 10px;
+  border: 1px solid #000000;
+}
+
+[data-status="선발"] {
+  background-color: #0000ff;
+  color: #FFFFFF;
+}
+
+[data-status="대기"] {
+  background-color: #ffffff;
+  color: #0000ff;
+}
+
+[data-status="부상"] {
+  background-color: #ff0000;
+  color: #FFFFFF;
+}

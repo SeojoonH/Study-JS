@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>선수 상태 버튼</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <p>로스터 : <b data-field="roaster"></b></p>
+  <p>선수명 : <b data-field="player"></b></p>
+  <p>상태 : <b data-field="status"></b></p>
+  <div>
+    상태 변경: 
+    <button class="btn" id="starting" data-status="선발">선발</button>
+    <button class="btn" id="submember" data-status="대기">대기</button>
+    <button class="btn" id="injury" data-status="부상">부상</button>
+  </div>
+  <script src="./index.js"></script>
+</body>
+
+</html>
