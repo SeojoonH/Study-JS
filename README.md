@@ -19,5 +19,8 @@
 ## 3. 상태 변경 버튼
 - 비표준속성
 [참고 링크](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes#issues)
+- 비어 있는 상태란에 바로 아래 상태 버튼 중 선택된 버튼이 표시
+
+<img width="269" alt="스크린샷 2023-04-27 오후 2 55 01" src="https://user-images.githubusercontent.com/119559363/234771869-d4d377eb-1f12-4eab-85b5-711929ee54f3.png">
 
 ---
