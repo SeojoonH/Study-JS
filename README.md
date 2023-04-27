@@ -15,3 +15,9 @@
 - textContent, innerHTML
 
 ---
+
+## 3. 상태 변경 버튼
+- 비표준속성
+[참고 링크](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes#issues)
+
+---
